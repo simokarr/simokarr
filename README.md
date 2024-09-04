@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samih Karroum</h1>
 <h3 align="center">CS+Econ student @uOttawa | prev @ Valero Energy</h3>
 
-- 🔭 I’m currently working on **Parley Pilot**
+- 🔭 I’m currently **writing a research project on multi-armed bandit algorithms in online learning, with a focus on stochastic and adversarial bandits**
 
 - 📫 How to reach me **samihkarroum1@gmail.com**
 
