@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samih Karroum</h1>
 <h3 align="center">CS+Econ student @uOttawa | prev @ Valero Energy</h3>
 
-- 🔭 I’m currently **writing a research project on multi-armed bandit algorithms in online learning, with a focus on stochastic and adversarial bandits**
+- 🔭 I’m currently **Working on a research project on a novel framework I created for hyperparameter optimization of machine learning models using multi-armed bandit algorithms. Hyper-Arm Bandit Optimization treats each hyperparameter as an arm and its sub-arms would be possible values of the hyperparameter, and performs better than Bayesian Optimization in many areas. You can read more about it in my repository*
 
 - 📫 How to reach me **samihkarroum1@gmail.com**
 
